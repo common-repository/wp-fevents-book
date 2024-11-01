@@ -1,0 +1,324 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-fevents-book\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-fevents-book\n"
+"POT-Creation-Date: 2014-03-27 08:11+0100\n"
+"PO-Revision-Date: 2014-03-27 08:12+0100\n"
+"Last-Translator: faina09 <stefanocotterli@gmail.com>\n"
+"Language-Team: faina09 <stefanocotterli@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: ../wp-fevents-6r.php:44 ../wp-fevents-6r.php:262 ../wp-fevents-6r.php:397
+#: ../wp-fevents-book.php:488
+msgid "Not logged User - access to the service denied"
+msgstr "Utente non loggato - accesso negato al servizio"
+
+#: ../wp-fevents-6r.php:210 ../wp-fevents-book.php:514
+#: ../wp-fevents-book.php:575
+msgid "DELETE"
+msgstr "ELIMINA"
+
+#: ../wp-fevents-6r.php:282 ../wp-fevents-book.php:345
+msgid "Delete Event and its booked users"
+msgstr "Elimina Evento e tutti gli utenti iscritti"
+
+#: ../wp-fevents-6r.php:282 ../wp-fevents-book.php:346
+msgid "Delete Event"
+msgstr "Elimina Evento"
+
+#: ../wp-fevents-6r.php:282 ../wp-fevents-book.php:348
+msgid "and all its booked users?"
+msgstr "e tutti gli utenti iscritti?"
+
+#: ../wp-fevents-6r.php:294 ../wp-fevents-6r.php:576
+#: ../wp-fevents-book.php:248
+msgid "Event ID"
+msgstr "ID Evento"
+
+#: ../wp-fevents-6r.php:297 ../wp-fevents-6r.php:579 ../wp-fevents-6r.php:681
+msgid "Nome utente"
+msgstr ""
+
+#: ../wp-fevents-6r.php:300 ../wp-fevents-6r.php:582 ../wp-fevents-6r.php:684
+msgid "Mail di riferimento"
+msgstr ""
+
+#: ../wp-fevents-6r.php:524
+msgid "Cancella iscrizione"
+msgstr ""
+
+#: ../wp-fevents-6r.php:1119
+msgid "Consenso invio email"
+msgstr ""
+
+#: ../wp-fevents-6r.php:1123
+msgid "Nessun invio email per gli eventi seiruote.info"
+msgstr ""
+
+#: ../wp-fevents-6r.php:1128
+msgid ""
+"Selezionare se NON si desidera ricevere informazioni su nuove iniziative o "
+"su modifiche alle inizaitive esistenti"
+msgstr ""
+
+#: ../wp-fevents-book.php:231
+msgid " Configuration Options "
+msgstr " Opzioni Configurazione "
+
+#: ../wp-fevents-book.php:251
+msgid "active Event"
+msgstr "Evento attivo"
+
+#: ../wp-fevents-book.php:254
+msgid "Color"
+msgstr "Colore"
+
+#: ../wp-fevents-book.php:257
+msgid "Event Description"
+msgstr "Descrizione Evento"
+
+#: ../wp-fevents-book.php:260
+msgid "Event Date"
+msgstr "Data Evento"
+
+#: ../wp-fevents-book.php:263
+msgid "Event Place"
+msgstr "Luogo Evento"
+
+#: ../wp-fevents-book.php:266
+msgid "Expire Date"
+msgstr "Data Scadenza"
+
+#: ../wp-fevents-book.php:269
+msgid "show user choices"
+msgstr "visualizza scelte Utente"
+
+#: ../wp-fevents-book.php:271
+msgid "text to show:"
+msgstr "testo da visualizzare:"
+
+#: ../wp-fevents-book.php:274 ../wp-fevents-book.php:275
+#: ../wp-fevents-book.php:276 ../wp-fevents-book.php:277
+msgid "choice"
+msgstr "scelta"
+
+#: ../wp-fevents-book.php:279
+msgid "show Confirmation checkbox"
+msgstr "visualizza casella di Conferma"
+
+#: ../wp-fevents-book.php:282
+msgid "show User email"
+msgstr "visualizza email Utente"
+
+#: ../wp-fevents-book.php:285
+msgid "show User info"
+msgstr "visualizza Info Utente"
+
+#: ../wp-fevents-book.php:288 ../wp-fevents-book.php:295
+msgid "show User"
+msgstr "visualizza Utente"
+
+#: ../wp-fevents-book.php:289 ../wp-fevents-book.php:297
+msgid "name and surname"
+msgstr "nome e cognome"
+
+#: ../wp-fevents-book.php:290 ../wp-fevents-book.php:298
+msgid "nickname"
+msgstr "nickname"
+
+#: ../wp-fevents-book.php:291 ../wp-fevents-book.php:299
+msgid "login id"
+msgstr "nome utente"
+
+#: ../wp-fevents-book.php:292 ../wp-fevents-book.php:300
+msgid "display name"
+msgstr "nome pubblico"
+
+#: ../wp-fevents-book.php:296
+msgid "all"
+msgstr "tutto"
+
+#: ../wp-fevents-book.php:303
+msgid "show Total users"
+msgstr "visualizza totale utenti"
+
+#: ../wp-fevents-book.php:304
+msgid "booked"
+msgstr "iscritti"
+
+#: ../wp-fevents-book.php:305
+msgid "confirmed"
+msgstr "confermati"
+
+#: ../wp-fevents-book.php:306
+msgid "both"
+msgstr "entrambi"
+
+#: ../wp-fevents-book.php:309 ../wp-fevents-book.php:593
+msgid "Event Info"
+msgstr "Informazioni Evento"
+
+#: ../wp-fevents-book.php:312
+msgid "Allow data export"
+msgstr "Permetti esportazione dati"
+
+#: ../wp-fevents-book.php:315
+msgid "Team list"
+msgstr "Lista squadra"
+
+#: ../wp-fevents-book.php:316
+msgid "with"
+msgstr "con"
+
+#: ../wp-fevents-book.php:316
+msgid "elements."
+msgstr "elementi."
+
+#: ../wp-fevents-book.php:317
+msgid "First number:"
+msgstr "Primo numero:"
+
+#: ../wp-fevents-book.php:319
+msgid "Max users allowed to subscribe"
+msgstr "Limita il numero massimo di utenti iscritti"
+
+#: ../wp-fevents-book.php:321
+msgid "Max number:"
+msgstr "Numero massimo:"
+
+#: ../wp-fevents-book.php:323
+msgid "Visible to Logged only users"
+msgstr "Visibile solo agli utenti loggati"
+
+#: ../wp-fevents-book.php:326
+msgid "Not Logged users can book"
+msgstr "Gli utenti non loggati possono iscriversi"
+
+#: ../wp-fevents-book.php:331
+msgid "Save Changes"
+msgstr "Salva Cambiamenti"
+
+#: ../wp-fevents-book.php:335
+msgid "Delete all Users booked to the event with "
+msgstr "Cancella tutti gli utenti iscritti a evento con "
+
+#: ../wp-fevents-book.php:337
+msgid "Clear booked users list"
+msgstr "Cancella lista utenti iscritti"
+
+#: ../wp-fevents-book.php:359
+msgid "adding this new event"
+msgstr "aggiungendo questo nuovo evento"
+
+#: ../wp-fevents-book.php:545
+msgid "Not logged in user, please login to book!"
+msgstr "Utente non autenticato, per favore autenticarsi!"
+
+#: ../wp-fevents-book.php:562
+msgid "BOOK ME!"
+msgstr "ISCRIVIMI!"
+
+#: ../wp-fevents-book.php:565
+msgid "Book NOT POSSIBLE; max number reached!"
+msgstr "Iscrizione NON POSSIBLIE; raggiunto il numero massimo!"
+
+#: ../wp-fevents-book.php:569
+msgid "Update my booking!"
+msgstr "Aggiorna la mia iscrizione!"
+
+#: ../wp-fevents-book.php:576
+msgid "ADD/UPDATE"
+msgstr "Aggiungi/Aggiorna"
+
+#: ../wp-fevents-book.php:583
+msgid "Description"
+msgstr "Descrizione"
+
+#: ../wp-fevents-book.php:585 ../wp-fevents-book.php:587
+msgid "Date (mm/dd/yyyy)"
+msgstr "Data (gg/mm/aaaa)"
+
+#: ../wp-fevents-book.php:585
+msgid "please subscribe before"
+msgstr "per favore iscriversi entro"
+
+#: ../wp-fevents-book.php:590
+msgid "Place"
+msgstr "Luogo"
+
+#: ../wp-fevents-book.php:597
+msgid "Event EXPIRED"
+msgstr "Evento SCADUTO il "
+
+#: ../wp-fevents-book.php:600
+msgid "User"
+msgstr "Utente"
+
+#: ../wp-fevents-book.php:603
+msgid ""
+"(if the user has already booked it is possible to modify the Notes and the "
+"Confirmation)"
+msgstr ""
+"(se l'utente si è già iscritto è possibile modificare le Note e la Conferma)"
+
+#: ../wp-fevents-book.php:623
+msgid "Team number"
+msgstr "Numero squadra"
+
+#: ../wp-fevents-book.php:628
+msgid "User notes"
+msgstr "Note utente"
+
+#: ../wp-fevents-book.php:633 ../wp-fevents-book.php:664
+msgid "Confirmed"
+msgstr "Confermato"
+
+#: ../wp-fevents-book.php:649
+msgid "CSV export"
+msgstr "Esporta in CSV"
+
+#: ../wp-fevents-book.php:649 ../wp-fevents-book.php:651
+msgid "Booked users list"
+msgstr "Lista utenti iscritti"
+
+#: ../wp-fevents-book.php:654
+msgid "Email"
+msgstr "Email"
+
+#: ../wp-fevents-book.php:657
+msgid "Info"
+msgstr "Info"
+
+#: ../wp-fevents-book.php:660
+msgid "Team Nr"
+msgstr "Nr squadra"
+
+#: ../wp-fevents-book.php:662
+msgid "Notes"
+msgstr "Note"
+
+#: ../wp-fevents-book.php:667
+msgid "Choice"
+msgstr "Scelta"
+
+#: ../wp-fevents-book.php:755
+msgid "Total booked users: "
+msgstr "Totale utenti iscritti: "
+
+#: ../wp-fevents-book.php:758
+msgid "Total confirmed users: "
+msgstr "Totale utenti confermati: "
+
+#: ../wp-fevents-book.php:761
+msgid "Total confirmed / booked users: "
+msgstr "Totale utenti confermati / iscritti: "
+
+#~ msgid "ADD"
+#~ msgstr "AGGIUNGI"

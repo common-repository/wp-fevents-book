@@ -1,0 +1,323 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-fevents-book\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-fevents-book\n"
+"POT-Creation-Date: 2014-03-27 08:11+0100\n"
+"PO-Revision-Date: 2014-03-27 08:20+0100\n"
+"Last-Translator: faina09 <stefanocotterli@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#: ../wp-fevents-6r.php:44 ../wp-fevents-6r.php:262 ../wp-fevents-6r.php:397
+#: ../wp-fevents-book.php:488
+msgid "Not logged User - access to the service denied"
+msgstr "Korisnik nije ulogovan- pristup odbijen"
+
+#: ../wp-fevents-6r.php:210 ../wp-fevents-book.php:514
+#: ../wp-fevents-book.php:575
+msgid "DELETE"
+msgstr "OBRISATI"
+
+#: ../wp-fevents-6r.php:282 ../wp-fevents-book.php:345
+msgid "Delete Event and its booked users"
+msgstr "Obrisati dogadjaj i bukirane korisnike"
+
+#: ../wp-fevents-6r.php:282 ../wp-fevents-book.php:346
+msgid "Delete Event"
+msgstr "Obrisati dogadjaj"
+
+#: ../wp-fevents-6r.php:282 ../wp-fevents-book.php:348
+msgid "and all its booked users?"
+msgstr "i sve bukirane korisnike?"
+
+#: ../wp-fevents-6r.php:294 ../wp-fevents-6r.php:576
+#: ../wp-fevents-book.php:248
+msgid "Event ID"
+msgstr "Event ID"
+
+#: ../wp-fevents-6r.php:297 ../wp-fevents-6r.php:579 ../wp-fevents-6r.php:681
+msgid "Nome utente"
+msgstr "Korisničko ime"
+
+#: ../wp-fevents-6r.php:300 ../wp-fevents-6r.php:582 ../wp-fevents-6r.php:684
+msgid "Mail di riferimento"
+msgstr "Email korisnika"
+
+#: ../wp-fevents-6r.php:524
+msgid "Cancella iscrizione"
+msgstr "Otkazi dogadjaj"
+
+#: ../wp-fevents-6r.php:1119
+msgid "Consenso invio email"
+msgstr "Saglasnost slanje emaila"
+
+#: ../wp-fevents-6r.php:1123
+msgid "Nessun invio email per gli eventi seiruote.info"
+msgstr "Nema događaja za slanje emaila seiruote.info"
+
+#: ../wp-fevents-6r.php:1128
+msgid ""
+"Selezionare se NON si desidera ricevere informazioni su nuove iniziative o "
+"su modifiche alle inizaitive esistenti"
+msgstr ""
+"Čekirajte ako ne želite da primate informacije o novim inicijativama i "
+"promenama o postojećem dogadjaju"
+
+#: ../wp-fevents-book.php:231
+msgid " Configuration Options "
+msgstr "Opcije konfiguracije"
+
+#: ../wp-fevents-book.php:251
+msgid "active Event"
+msgstr "active Event"
+
+#: ../wp-fevents-book.php:254
+msgid "Color"
+msgstr "Boja"
+
+#: ../wp-fevents-book.php:257
+msgid "Event Description"
+msgstr "Opis dogadjaja"
+
+#: ../wp-fevents-book.php:260
+msgid "Event Date"
+msgstr "Datum dogadjaja"
+
+#: ../wp-fevents-book.php:263
+msgid "Event Place"
+msgstr "Mesto dogadjaja"
+
+#: ../wp-fevents-book.php:266
+msgid "Expire Date"
+msgstr "Rok isteka"
+
+#: ../wp-fevents-book.php:269
+msgid "show user choices"
+msgstr "prikazati izbor korisnika"
+
+#: ../wp-fevents-book.php:271
+msgid "text to show:"
+msgstr "tekst za prikaz:"
+
+#: ../wp-fevents-book.php:274 ../wp-fevents-book.php:275
+#: ../wp-fevents-book.php:276 ../wp-fevents-book.php:277
+msgid "choice"
+msgstr "izbor"
+
+#: ../wp-fevents-book.php:279
+msgid "show Confirmation checkbox"
+msgstr "prikaži Potvrdi checkbox"
+
+#: ../wp-fevents-book.php:282
+msgid "show User email"
+msgstr "prikaži email korisnika"
+
+#: ../wp-fevents-book.php:285
+msgid "show User info"
+msgstr "prikaži info korisnika"
+
+#: ../wp-fevents-book.php:288 ../wp-fevents-book.php:295
+msgid "show User"
+msgstr "prikaži korisnika"
+
+#: ../wp-fevents-book.php:289 ../wp-fevents-book.php:297
+msgid "name and surname"
+msgstr "ime i prezime"
+
+#: ../wp-fevents-book.php:290 ../wp-fevents-book.php:298
+msgid "nickname"
+msgstr "nadimak"
+
+#: ../wp-fevents-book.php:291 ../wp-fevents-book.php:299
+msgid "login id"
+msgstr "login id"
+
+#: ../wp-fevents-book.php:292 ../wp-fevents-book.php:300
+msgid "display name"
+msgstr "prikazano ime"
+
+#: ../wp-fevents-book.php:296
+msgid "all"
+msgstr "sve"
+
+#: ../wp-fevents-book.php:303
+msgid "show Total users"
+msgstr "prikaži Total korisnika"
+
+#: ../wp-fevents-book.php:304
+msgid "booked"
+msgstr "bukovano"
+
+#: ../wp-fevents-book.php:305
+msgid "confirmed"
+msgstr "potvrdjeno"
+
+#: ../wp-fevents-book.php:306
+msgid "both"
+msgstr "oba"
+
+#: ../wp-fevents-book.php:309 ../wp-fevents-book.php:593
+msgid "Event Info"
+msgstr " Info o dogadjaju"
+
+#: ../wp-fevents-book.php:312
+msgid "Allow data export"
+msgstr "Dozvoli export podataka"
+
+#: ../wp-fevents-book.php:315
+msgid "Team list"
+msgstr "Lista tima"
+
+#: ../wp-fevents-book.php:316
+msgid "with"
+msgstr "sa"
+
+#: ../wp-fevents-book.php:316
+msgid "elements."
+msgstr "elementima."
+
+#: ../wp-fevents-book.php:317
+msgid "First number:"
+msgstr "Prvi brojr:"
+
+#: ../wp-fevents-book.php:319
+msgid "Max users allowed to subscribe"
+msgstr "Max korisnika dozvoljen za pretplatu"
+
+#: ../wp-fevents-book.php:321
+msgid "Max number:"
+msgstr "Max broj:"
+
+#: ../wp-fevents-book.php:323
+msgid "Visible to Logged only users"
+msgstr "Vidljivo samo ulogovanim korisnicima"
+
+#: ../wp-fevents-book.php:326
+msgid "Not Logged users can book"
+msgstr ""
+
+#: ../wp-fevents-book.php:331
+msgid "Save Changes"
+msgstr "Sačuvati promene"
+
+#: ../wp-fevents-book.php:335
+msgid "Delete all Users booked to the event with "
+msgstr "Obrisati sve bukirane orisnike za ovaj dogadja sa"
+
+#: ../wp-fevents-book.php:337
+msgid "Clear booked users list"
+msgstr "Obrisati listu bukiranih korisnika"
+
+#: ../wp-fevents-book.php:359
+msgid "adding this new event"
+msgstr "dodaje se novi dogadja"
+
+#: ../wp-fevents-book.php:545
+msgid "Not logged in user, please login to book!"
+msgstr "Niste ulogovan i korisnik, molim vas ulogijte se da biste bukirali!"
+
+#: ../wp-fevents-book.php:562
+msgid "BOOK ME!"
+msgstr "BUKIRAJ ME!"
+
+#: ../wp-fevents-book.php:565
+msgid "Book NOT POSSIBLE; max number reached!"
+msgstr "Bukiranje NIJE MOGUĆE; max BROJ JE POPUNJEN"
+
+#: ../wp-fevents-book.php:569
+msgid "Update my booking!"
+msgstr "Updateuj moj buking!"
+
+#: ../wp-fevents-book.php:576
+msgid "ADD/UPDATE"
+msgstr "DODATI/UPDATEOVATI"
+
+#: ../wp-fevents-book.php:583
+msgid "Description"
+msgstr "Opis"
+
+#: ../wp-fevents-book.php:585 ../wp-fevents-book.php:587
+msgid "Date (mm/dd/yyyy)"
+msgstr "Datum (mm/dd/gggg)"
+
+#: ../wp-fevents-book.php:585
+msgid "please subscribe before"
+msgstr "pretpplatite se pre svega"
+
+#: ../wp-fevents-book.php:590
+msgid "Place"
+msgstr "Mesto"
+
+#: ../wp-fevents-book.php:597
+msgid "Event EXPIRED"
+msgstr "Dogadja je ISTEKAO"
+
+#: ../wp-fevents-book.php:600
+msgid "User"
+msgstr "Korisnik"
+
+#: ../wp-fevents-book.php:603
+msgid ""
+"(if the user has already booked it is possible to modify the Notes and the "
+"Confirmation)"
+msgstr ""
+"( ukoliko je korisnik već rezervisao moguće je modifikovati podatke i "
+"potvrdu )"
+
+#: ../wp-fevents-book.php:623
+msgid "Team number"
+msgstr "Broj tima"
+
+#: ../wp-fevents-book.php:628
+msgid "User notes"
+msgstr "Beleške korisnika"
+
+#: ../wp-fevents-book.php:633 ../wp-fevents-book.php:664
+msgid "Confirmed"
+msgstr "Potvrdjeno"
+
+#: ../wp-fevents-book.php:649
+msgid "CSV export"
+msgstr "CSV export"
+
+#: ../wp-fevents-book.php:649 ../wp-fevents-book.php:651
+msgid "Booked users list"
+msgstr "Lista bukovanih korisnika"
+
+#: ../wp-fevents-book.php:654
+msgid "Email"
+msgstr "Email"
+
+#: ../wp-fevents-book.php:657
+msgid "Info"
+msgstr "Info"
+
+#: ../wp-fevents-book.php:660
+msgid "Team Nr"
+msgstr "broj tima"
+
+#: ../wp-fevents-book.php:662
+msgid "Notes"
+msgstr "Beleške"
+
+#: ../wp-fevents-book.php:667
+msgid "Choice"
+msgstr "Izbor"
+
+#: ../wp-fevents-book.php:755
+msgid "Total booked users: "
+msgstr "Total bukiranih korisnika:"
+
+#: ../wp-fevents-book.php:758
+msgid "Total confirmed users: "
+msgstr "Total potvrdjenih korisnika:"
+
+#: ../wp-fevents-book.php:761
+msgid "Total confirmed / booked users: "
+msgstr "Total Total bukiranih / bukiranih korisnika: "
